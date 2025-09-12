@@ -9,19 +9,17 @@ eleventyNavigation:
 
 # About Me
 
-I am a first year PhD student in Library and Information Science at UNC Chapel Hill, working under the supervision of Dr. Alexandra Chassanoff and Dr. Melanie Feinberg. My research interests include community archives, critical archival theory, and the ways archive making shapes and is shaped by identity and emotions.
+TEST TEST
 
 ## Education
 
-- **PhD in LIS**, UNC Chapel Hill, [2025 - Present]
-- **MA in Global History**, Freie Universität Berlin/Humboldt Universität Berlin
-- **BA in Political Economy**, UC Berkeley
+- **PhD TEST 
+- **MA in TEST**, TEST
+- **BA in TEST**, TEST
 
 ## Research Interests
 
-- Critical archives
-- Identity and emotions studies
-- Tech ethics
+- TEST
 
 ## Current Projects ##
 
