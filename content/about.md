@@ -9,21 +9,21 @@ eleventyNavigation:
 
 # About Me
 
-I am a PhD student in [Your Field] at [Your University], working under the supervision of [Advisor Name]. My research focuses on [Your Research Area].
+I am a first year PhD student in Library and Information Science at UNC Chapel Hill, working under the supervision of Dr. Alexandra Chassanoff and Dr. Melanie Feinberg. My research interests include community archives, critical archival theory, and the ways archive making shapes and is shaped by identity and emotions.
 
 ## Education
 
-- **PhD in [Field]**, [University], [Year - Present]
-- **MSc in [Field]**, [University], [Year]
-- **BSc in [Field]**, [University], [Year]
+- **PhD in LIS**, UNC Chapel Hill, [2025 - Present]
+- **MA in Global History**, Freie Universität Berlin/Humboldt Universität Berlin
+- **BA in Political Economy**, UC Berkeley
 
 ## Research Interests
 
-- Research area 1
-- Research area 2
-- Research area 3
+- Critical archives
+- Identity and emotions studies
+- Tech ethics
 
-## Current Projects
+## Current Projects ##
 
 ### Project Title 1
 Brief description of your current research project.
